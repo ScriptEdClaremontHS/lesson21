@@ -6,6 +6,14 @@ Lesson 21 - More CSS!
 ## [CLICK HERE FOR DO NOW](https://docs.google.com/document/d/1yHDKFHp1tHFLU2fVl4-aM3p2hgBUZuhcKOF81R_m7bc/edit?usp=sharing)
 
 
+==========
+## Nitrous setup
+
+1. Open your Nitrous account
+2. Copy and paste this command into your Nitrous Terminal:
+
+cd ~/workspace/www; git clone https://github.com/ScriptEdClaremontHS/lesson21.git
+
 ###Bonus Challenge
 
 1. Find `bonus.html` and `bonus.css` in `lesson21/BonusChallenge`
