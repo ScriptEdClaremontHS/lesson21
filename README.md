@@ -14,7 +14,9 @@ Lesson 21 - More CSS!
 ![Obama coding](images/obama-coding.png)
 
 * Hint 1: Here is the URL for the image: [http://img.qz.com/2014/12/obama-coding.jpg?w=1000](http://img.qz.com/2014/12/obama-coding.jpg?w=1000)
-* Hint 2: There are different elements with different `font-family` on this page!
+* Hint 2: There are different elements with different `font-family` (CSS property) on this page!
+* Hint 3: Try using the `text-align` CSS property!
+* Hint 4: Try using the `float` CSS property!
 
 ====
 
