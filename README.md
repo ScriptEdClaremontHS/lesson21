@@ -1,19 +1,7 @@
 Lesson 21 - CSS Classes
 ========
 
-###Do Now
-
-1. Open your Nitrous account
-2. Copy and paste this command into your Nitrous Terminal:
-  
-  ```
-  cd ~/workspace/www; git clone https://github.com/ScriptEdClaremontHS/lesson21.git
-  ```
-3. Go to `lesson21/DoNow/donow.html`
-4. Preview `donow.html`
-5. Add the HTML for an image of your favorite singer to `donow.html`
-6. Add the CSS to `donow.css` to make the page look like this:
-
+## [CLICK HERE FOR DO NOW](https://docs.google.com/document/d/1yHDKFHp1tHFLU2fVl4-aM3p2hgBUZuhcKOF81R_m7bc/edit?usp=sharing)
 ====
 
 ###Activity
