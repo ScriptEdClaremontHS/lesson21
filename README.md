@@ -11,7 +11,7 @@ Lesson 21 - More CSS!
 1. Find `bonus.html` and `bonus.css` in `lesson21/BonusChallenge`
 2. Write the HTML and CSS for this webpage!
 
-![Obama coding](images/obama-coding.jpg)
+![Obama coding](images/obama-coding.png)
 
 * Hint 1: Here is the URL for the image: [http://img.qz.com/2014/12/obama-coding.jpg?w=1000](http://img.qz.com/2014/12/obama-coding.jpg?w=1000)
 * Hint 2: There are different elements with different `font-family` on this page!
