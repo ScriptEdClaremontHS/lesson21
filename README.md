@@ -9,7 +9,6 @@ Lesson 21 - CSS Classes
   ```
   cd ~/workspace/www; git clone https://github.com/ScriptEdClaremontHS/lesson21.git
   ```
-  ![Nitrous terminal](images/nitrous-small.png)
 3. Go to `lesson21/DoNow/donow.html`
 4. Preview `donow.html`
 5. Add the HTML for an image of your favorite singer to `donow.html`
