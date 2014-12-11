@@ -1,25 +1,23 @@
-Lesson 21 - CSS Classes
+Lesson 21 - More CSS!
 ========
 
+![CSS is fun](http://i.giphy.com/pX8D09atj822I.gif)
+
 ## [CLICK HERE FOR DO NOW](https://docs.google.com/document/d/1yHDKFHp1tHFLU2fVl4-aM3p2hgBUZuhcKOF81R_m7bc/edit?usp=sharing)
-====
 
-###Activity
-
-1. Open your Nitrous
-2. Go to `lesson21/Activity/activity.html`
-3. Preview `activity.html`
-4. Write the CSS in `activity.css` to make the page look like this:
-
-====
 
 ###Bonus Challenge
 
-1. Find `bonus.html` and `bonus.css` in `lesson19/BonusChallenge`
-2. Write the HTML and CSS for this webpage, but use your own text and images!
+1. Find `bonus.html` and `bonus.css` in `lesson21/BonusChallenge`
+2. Write the HTML and CSS for this webpage!
+
+![Obama coding](images/obama-coding.jpg)
+
+* Hint 1: Here is the URL for the image: [http://img.qz.com/2014/12/obama-coding.jpg?w=1000](http://img.qz.com/2014/12/obama-coding.jpg?w=1000)
+* Hint 2: There are different elements with different `font-family` on this page!
 
 ====
 
-###Google Hackathon!
+###Google Hackathon on Saturday!
 
 Fill out this form: [bit.ly/ScriptEdHackathon](http://bit.ly/ScriptEdHackathon)
